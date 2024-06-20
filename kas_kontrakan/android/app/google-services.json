@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031060654234",
+    "project_id": "tubeskaskontrakan-3bda1",
+    "storage_bucket": "tubeskaskontrakan-3bda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031060654234:android:d4cac8c2dd374727b3b723",
+        "android_client_info": {
+          "package_name": "com.example.kas_kontrakan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCacOCPsfAGKPg4KBfJ0pydYaY-HNajgok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
